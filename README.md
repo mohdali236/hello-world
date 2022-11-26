@@ -1,2 +1,2 @@
-# hello-world
-This is for week 13 lab 3 to make a repository and do hello world.
+My name is Muhammad Ali, I am a Computer Science Major in UTD, I will be graduating soon
+I am 20 yrs old
